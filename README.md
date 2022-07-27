@@ -1,8 +1,8 @@
 - 👋 OLA, SOU @DGZINN77
-- 👀 meu e-mail de contato e aguiardiogo126@gmail.com
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- :+1: meu e-mail de contato é aguiardiogo126@gmail.com 
+- 👀 Eu estou enteressado em aprender a programar novas linguagens 
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de javaScritpt e Scratch 
+
 
 <!---
 DGZINN77/DGZINN77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
